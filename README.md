@@ -2,7 +2,7 @@
 
 <h3>Overview:<h3></h3>
 
-Smallsh is a bash-like like shell for Linux written in C. This was the portfolio project from CS 374 - Operating Systems 1
+Smallsh is a bash-like like shell for Linux written in C. This was the portfolio project from CS 374 - Operating Systems
  
  Features:
   * Supports system commands
